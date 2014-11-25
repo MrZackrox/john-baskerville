@@ -14,7 +14,7 @@
             {
                 font-weight: normal;
                 text-align: center;
-                color: #A9120E;
+                
             }
         
         h1
@@ -27,7 +27,8 @@
         
         h2,h3
             {
-                font-size: 26px;   
+                font-size: 26px;
+                color: #A9120E;   
             }
             
         .subtitle
