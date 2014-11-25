@@ -9,7 +9,7 @@ AAD115 John Baskerville Project
 
 [Version 3] (http://mrzackrox.github.io/john-baskerville/version-3.html)
 
-[Version 4] (http://mrzackrox.github.io/john-baskerville/version-4.html)
+[Version 4.0] (http://mrzackrox.github.io/john-baskerville/version-4.html)
 
 [Version 4.1] (http://mrzackrox.github.io/john-baskerville/version-4.1.html)
 
