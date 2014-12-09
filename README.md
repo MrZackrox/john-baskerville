@@ -30,3 +30,5 @@ AAD115 John Baskerville Project
 
 1st December 2014
 -----------------
+
+[Version 7] (http://mrzackrox.github.io/john-baskerville/version-6.html)- Added Reset and Layout styles.
