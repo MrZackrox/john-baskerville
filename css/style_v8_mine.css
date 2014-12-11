@@ -45,7 +45,8 @@
         h3
             {
                 font-size: 28px;
-                color: #171B21;
+                color: #53080D;
+                font-weight: 800;
             }
 
         p,li
@@ -134,6 +135,11 @@ span.and
     font-size: 70px;
 }
 
+span.john
+{
+    color: #53080D;
+    font-weight: 600;
+}
 
 /*Layout*/
 
@@ -157,7 +163,7 @@ article
 
 #section2
 {
-    margin-top: 400px;     
+    margin-top: 450x;     
 }
 
 #section3
