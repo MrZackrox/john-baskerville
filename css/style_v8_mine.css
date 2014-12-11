@@ -128,6 +128,12 @@ span.basker
     line-height: 1.4em;
 }
 
+span.and
+{
+    color: #53080D;
+    font-size: 70px;
+}
+
 /*Layout*/
 
 article
