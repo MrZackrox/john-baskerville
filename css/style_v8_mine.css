@@ -11,7 +11,7 @@
         body
             {
             
-                background-color: #FFFFEA;
+                background-color: #FFFEF9;
                 font-family: 'Libre Baskerville', serif;
                 color: #212121;
 
@@ -32,21 +32,32 @@
                  font-size: 60px;
                  text-transform: uppercase;
                  letter-spacing: 5px;
-                 color: #A9120E;
+                 color: #53080D;
                  font-weight: 600;
             }
         
-        h2,h3
+        h2
             {
                 font-size: 26px;
-                color: #A9120E;   
+                color: #27080D;   
             }
+        h3
+            {
+                font-size: 28px;
+                color: #A9120E
+            }
+
         p,li
 
             {
              line-height: 1.4em;
              margin-bottom: 10px;
+             color: #27080D; 
             }
+        p
+{
+    color: #171B21;
+}
         
         .subtitle
             {
@@ -129,8 +140,28 @@ article
    
 }
 
-section
+#section0
 {
-    margin-top: 425px;     
+    margin-top: 390px;     
 }
 
+#section1
+{
+    margin-top: 450px;     
+}
+
+#section2
+{
+    margin-top: 400px;     
+}
+
+#section3
+{
+    margin-top: 400px;     
+}
+
+
+#section4
+{
+    margin-top: 400px;     
+}
