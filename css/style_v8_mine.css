@@ -49,7 +49,7 @@
                 font-weight: 800;
             }
 
-        p,li
+        p
 
             {
              line-height: 1.4em;
@@ -58,7 +58,6 @@
              font-weight: 600;
             }
 
-        
         .subtitle
             {
                 font-style: italic;
@@ -178,6 +177,14 @@ article
     margin-top: 400px;     
 }
 
+li
+    {
+     line-height: 1.4em;
+     margin-bottom: 10px;
+     color: #171B21;
+     font-weight: 600;
+    }
+
 .topl
 {
     float: left;
@@ -204,4 +211,9 @@ article
 #section4
 {
     margin-top: 400px;     
+}
+
+#footer5
+{
+    margin-top: 180px;    
 }
