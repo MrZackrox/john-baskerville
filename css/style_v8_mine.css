@@ -178,10 +178,32 @@ article
     margin-top: 400px;     
 }
 
-.topl
+.topl {
+    width: 450px;
+}
+.topl ul {
+    padding: 0; /* remove default padding and all margins! */
+    margin: 0;
+    list-style-type: none; /* remove the • */
+}
+.topl ul li {
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+
+.topm
 {
-   width: 45%;
-	float: left;
+    width: 45%;
+	float: middle;
+	margin-bottom: 70%; 
+}
+
+.topr
+{
+    width: 45%;
+	float: right;
 	margin-bottom: 70%; 
 }
 
