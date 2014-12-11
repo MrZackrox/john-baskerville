@@ -54,7 +54,8 @@
             {
              line-height: 1.4em;
              margin-bottom: 10px;
-             color: #171B21; 
+             color: #171B21;
+             font-weight: 600;
             }
 
         
@@ -141,6 +142,12 @@ span.john
     font-weight: 600;
 }
 
+span.eaves
+{
+    color: #53080D;
+    font-weight: 600;
+}
+
 /*Layout*/
 
 article
@@ -163,7 +170,7 @@ article
 
 #section2
 {
-    margin-top: 450x;     
+    margin-top: 450px;     
 }
 
 #section3
@@ -171,6 +178,12 @@ article
     margin-top: 400px;     
 }
 
+.topl
+{
+   width: 45%;
+	float: left;
+	margin-bottom: 70%; 
+}
 
 #section4
 {
