@@ -147,6 +147,11 @@ span.eaves
     font-weight: 600;
 }
 
+span.letter
+{
+ margin-top: -20px;   
+}
+
 /*Layout*/
 
 article
