@@ -24,29 +24,33 @@
                 font-weight: normal;
                 text-align: center;
                 padding:  20px;
-                
+                text-transform: uppercase; 
+                letter-spacing: 5px;
             }
         
         h1
             {
-                 font-size: 60px;
+                 font-size: 90px;
                  text-transform: uppercase;
                  letter-spacing: 5px;
                  color: #53080D;
-                 font-weight: 600;
+                 font-weight: 600px;
+                 text-shadow: -1px -1px rgba(0, 0, 0, 0.6);
             }
         
         h2
             {
-                font-size: 26px;
+                font-size: 23px;
                 color: #171B21;
                 font-weight: 600;
+                text-shadow: -1px -1px rgba(0, 0, 0, 0.6);
             }
         h3
             {
                 font-size: 28px;
                 color: #53080D;
-                font-weight: 800;
+                font-weight: 800px;
+                text-shadow: -1px -1px rgba(0, 0, 0, 0.6);
             }
 
         p
@@ -55,7 +59,8 @@
              line-height: 1.4em;
              margin-bottom: 10px;
              color: #171B21;
-             font-weight: 600;
+             font-weight: 600px;
+             font-family: 'Libre Baskerville', serif;
             }
 
         .subtitle
@@ -69,13 +74,13 @@
                 font-size: 20px;
                 border-top: 1px solid #ddd;
                 border-bottom: 1px solid #ddd;
-                padding-bottom: 5px;
-                padding-top: 5px;
+                padding-bottom: 10px;
+                padding-top: 10px;
             }
         
         a
             {
-             color: #27080D;
+             color: #53080D;
              text-decoration: none;
              text-transform: uppercase;
              letter-spacing: 2px;    
@@ -136,6 +141,7 @@ span.and
 {
     color: #53080D;
     font-size: 70px;
+    text-shadow: -1px -1px rgba(0, 0, 0, 0.6);
 }
 
 span.john
@@ -152,7 +158,8 @@ span.eaves
 
 span.letter
 {
- margin-top: -20px;   
+ position: relative;
+ 
 }
 
 /*Layout*/
@@ -161,13 +168,14 @@ article
 {
     max-width: 800px;
     min-width: 300px;
-    margin: 20px auto;         
+    margin: 20px auto;
+    
    
 }
 
 #section0
 {
-    margin-top: 360px;     
+    margin-top: 310px;     
 }
 
 #section1
