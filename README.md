@@ -36,6 +36,6 @@ AAD115 John Baskerville Project
 29th December 2014
 -----------------
 
-[Version 8] (http://mrzackrox.github.io/john-baskerville/version-8.html)- We were given the task to take what we learnt from this endevor and to use it to make our own version..
+[Version 8] (http://mrzackrox.github.io/john-baskerville/version-8-mine.html)- We were given the task to take what we learnt from this endevor and to use it to make our own version..
 
 
