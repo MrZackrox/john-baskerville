@@ -7,6 +7,7 @@ AAD115 John Baskerville Project
 -----------------
 
 [Version 1] (http://mrzackrox.github.io/john-baskerville/version-1.html)- Marked up plain text file as an HTML5 page.
+
 [Version 2] (http://mrzackrox.github.io/john-baskerville/version-2.html)- Added images and list items.
 
 17th November 2014
